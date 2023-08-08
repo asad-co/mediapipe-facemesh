@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mediapipe-facemesh/static/css/main.7e9ab6ae.css",
+    "main.js": "/mediapipe-facemesh/static/js/main.b2ab5dae.js",
+    "index.html": "/mediapipe-facemesh/index.html",
+    "main.7e9ab6ae.css.map": "/mediapipe-facemesh/static/css/main.7e9ab6ae.css.map",
+    "main.b2ab5dae.js.map": "/mediapipe-facemesh/static/js/main.b2ab5dae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e9ab6ae.css",
+    "static/js/main.b2ab5dae.js"
+  ]
+}
